@@ -145,23 +145,23 @@ It will be a complete roadmap for your placement prep.
 
 ## DSA Topics
 
- 1️⃣ Arrays & Matrix
- 2️⃣ String
- 3️⃣ Searching
- 4️⃣ Sorting
- 5️⃣ Hashing
- 6️⃣ Stack
- 7️⃣ Queue
- 8️⃣ Linked List
- 9️⃣ Recursion
- 1️⃣0️⃣ Backtracking
- 1️⃣1️⃣ Tree
- 1️⃣2️⃣ BST
- 1️⃣3️⃣ Heap or priority queue
- 1️⃣4️⃣ Graph
- 1️⃣5️⃣ Greedy
- 1️⃣6️⃣ Dynamic programming
- 1️⃣7️⃣Trie
+ -1️⃣ Arrays & Matrix
+ -2️⃣ String
+ -3️⃣ Searching
+ -4️⃣ Sorting
+ -5️⃣ Hashing
+ -6️⃣ Stack
+ -7️⃣ Queue
+ -8️⃣ Linked List
+ -9️⃣ Recursion
+ -1️⃣0️⃣ Backtracking
+ -1️⃣1️⃣ Tree
+ -1️⃣2️⃣ BST
+ -1️⃣3️⃣ Heap or priority queue
+ -1️⃣4️⃣ Graph
+ -1️⃣5️⃣ Greedy
+ -1️⃣6️⃣ Dynamic programming
+ -1️⃣7️⃣Trie
 
 ## Best Platforms for training
 
